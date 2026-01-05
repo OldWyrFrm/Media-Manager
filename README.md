@@ -59,12 +59,12 @@
 - **TMDB API Token** ([Free registration required](https://www.themoviedb.org/settings/api))
 
 ### Installation
-1. Download `MediaManagerV2.ps1` to your desired location
+1. Download `MediaManager.ps1` to your desired location
 2. Right-click and select "Run with PowerShell" **OR**
 3. Open PowerShell and navigate to the script location:
    ```powershell
    cd "C:\Path\To\Your\Script"
-   .\MediaManagerV2.ps1
+   .\MediaManager.ps1
    ```
 
 ### First Run Setup
