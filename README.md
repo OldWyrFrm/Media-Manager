@@ -478,7 +478,7 @@ TMDB Token: [Configured]
 ### **📞 Support**
 
 For additional support or feature requests:
-1. Check that you're using the latest version (V8.4)
+1. Check that you're using the latest version
 2. Verify all prerequisites are met
 3. Review the troubleshooting section
 4. Check TMDB API status at [TMDB Status Page](https://status.themoviedb.org/)
@@ -497,6 +497,6 @@ For additional support or feature requests:
 
 ---
 
-**🎬 Happy organizing! Transform your chaotic media collection into a perfectly organized library with Media Manager V8.4!**
+**🎬 Happy organizing! Transform your chaotic media collection into a perfectly organized library with Media Manager!**
 
 > **💡 Pro Tip**: Start with a small test folder before processing your entire collection to get familiar with the naming schemes and options.
